@@ -1,8 +1,8 @@
-Defs upate + auto update feature
+**Original Author : Gus#0074**
 
-Improved TeraNoFallDamage - original made by Gus.
+No Fall Damage - Next Gen Update.
 
-Command added: !fall to enable/disable fall damage
+Command: !fall to enable/disable fall damage.
 
-This module removes all fall damage in tera. Gus#0074 on discord <3
+This module removes all fall damage in TERA.
 
