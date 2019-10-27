@@ -4,7 +4,7 @@ module.exports = function drop(mod){
         
         mod.command.add('fall', ()=>{
                 enabled = !enabled;
-                mod.command.message("Fall damage has been " + (enabled?"enabled.":"disabled."));
+                mod.command.message("No fall damage has been " + (enabled?"enabled.":"disabled."));
         });
         
         mod.hook('S_LOAD_TOPO', 3, e=>{
