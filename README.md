@@ -1,6 +1,6 @@
 **Original Author : Gus#0074**
 
-No Fall Damage - Next Gen Update.
+No Fall Damage - Toolbox mod.
 
 Command: !fall to enable/disable fall damage.
 
