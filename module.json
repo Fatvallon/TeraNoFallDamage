@@ -3,6 +3,6 @@
     "name": "no-fall-damage",
     "author": "Gus / Kasea / Fatvallon",
     "description": "Take no damage when falling from high distance",
-    "version": "1.0",
+    "version": "2.0",
     "servers": ["https://raw.githubusercontent.com/Fatvallon/no-fall-damage/master/"]
 }
